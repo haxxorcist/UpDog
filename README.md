@@ -1,52 +1,21 @@
-Upound Core integration/staging tree
-=====================================
-
-What is Upound?
+Whats Updog?
 ----------------
+hehehe nothing much dude what about you
 
-Upound is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Upound uses peer-to-peer technology to operate
+Updog is an experimental cryptocurrency similar to litecoin that enables instant payments to
+anyone, anywhere in the world. Updog uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Upound Core is the name of open source
-software which enables the use of this currency.
+out collectively by the network.
 
-For more information, as well as an immediately useable, binary version of
-the Upound Core software
+Check out our website if you want to learn more:
+LINK UNDER CONSTRUCTION
+Fund the overworked unpayed employees of UpDog, and allow us to buy more hampsters and potatos to run our servers:
+LINK UNDER CONSTRUCTION
 
 Development Process
 -------------------
+We regurally mess around with the code to see what we can do, so its regurally under construction so chances are new versions will become avaliable
 
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. we regularly edit to indicate new official, stable release versions of Upound Core.
-
-The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-
-Testing
--------
-
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test on short notice. Please be patient and help out by testing
-other people's pull requests, and remember this is a security-critical project where any mistake might cost people
-lots of money.
-
-### Automated Testing
-
-Developers are strongly encouraged to write [unit tests](src/test/README.md) for new code, and to
-submit new unit tests for old code. Unit tests can be compiled and run
-(assuming they weren't disabled in configure) with: `make check`. Further details on running
-and extending unit tests can be found in [/src/test/README.md](/src/test/README.md).
-
-There are also [regression and integration tests](/test), written
-in Python, that are run automatically on the build server.
-These tests can be run (if the [test dependencies](/test) are installed) with: `test/functional/test_runner.py`
-
-The Travis CI system makes sure that every pull request is built for Windows, Linux, and OS X, and that unit/sanity tests are run automatically.
-
-### Manual Quality Assurance (QA) Testing
-
-Changes should be tested by somebody other than the developer who wrote the
-code. This is especially important for large or high-risk changes. It is useful
-to add a test plan to the pull request description if testing the changes is
-not straightforward.
-
+no you cant help, but if you seriously want to bug us about how you could help send us an email here:
+scythepen@gmail.com
+christianbeach@outlook.com
