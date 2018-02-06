@@ -1,3 +1,4 @@
+
 Whats Updog?
 ----------------
 hehehe nothing much dude what about you
@@ -17,5 +18,6 @@ Development Process
 We regurally mess around with the code to see what we can do, so its regurally under construction so chances are new versions will become avaliable
 
 no you cant help, but if you seriously want to bug us about how you could help send us an email here:
+
 scythepen@gmail.com
 christianbeach@outlook.com
