@@ -1,5 +1,5 @@
 
-![UpDog](/UpDog.jpeg)
+![UpDog](/UpDog.jpg)
 
 
 Whats Updog?
