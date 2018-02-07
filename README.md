@@ -21,8 +21,7 @@ Development Process
 -------------------
 We regurally mess around with the code to see what we can do, so its regurally under construction so chances are new versions will become avaliable
 
-no you cant help, but if you seriously want to bug us about how you could help send us an email here:
-
+You might be able to help us, but you will be payed in updog tokens and not real cash, contact us here:
 scythepen@gmail.com
 christianbeach@outlook.com
 
