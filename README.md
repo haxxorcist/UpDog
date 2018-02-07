@@ -1,4 +1,5 @@
 
+[UpDog](UpDog.jpeg)
 Whats Updog?
 ----------------
 hehehe nothing much dude what about you
