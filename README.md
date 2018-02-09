@@ -6,6 +6,8 @@ Whats Updog?
 ----------------
 hehehe nothing much dude what about you
 
+UpDog is love, UpDog is life
+
 Updog is an experimental cryptocurrency similar to litecoin that enables instant payments to
 anyone, anywhere in the world. Updog uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
