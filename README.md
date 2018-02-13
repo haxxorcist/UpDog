@@ -29,6 +29,6 @@ scythepen@gmail.com
 christianbeach@outlook.com
 
 
-![UpDog](/meme.png)
+![UpDog](/Meme.png)
 
 ps. i wana die
