@@ -14,9 +14,9 @@ out collectively by the network.
 Check out our website if you want to learn more:
 LINK UNDER CONSTRUCTION
 
-Fund the overworked unpayed employees of UpDog, and allow us to buy more hamsters and potatos to run our "servers":
+Fund the overworked unpayed employees of Upound, and allow us to buy more hamsters and potatos to run our "servers":
 
-paypal.me/Upound
+[Paypal](http://paypal.me/Upound)
 
 Development Process
 -------------------
