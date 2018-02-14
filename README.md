@@ -28,5 +28,5 @@ christianbeach@outlook.com
 
 
 ![UpDog](/Meme.png)
-![UpDog](/Meme2.jpg)
+![UpDog](/Meme2.JPG)
 ps. i wana die
